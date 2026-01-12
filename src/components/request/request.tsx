@@ -13,18 +13,18 @@ import axios from "axios";
 // export const USER_URL="http://localhost:6001/api/user/user"
 
 
-let API_URL="http://34.230.82.114//api/user/user"
-let QUIZ_URL="http://34.230.82.114//api/quiz/quiz"
-let COMMON_URL="http://34.230.82.114//api/common"
-let QUESTION_URL="http://34.230.82.114//api/question"
-export const APIURLADMIN="http://34.230.82.114//api/conferenceQuiz/web/admin-setting"
-export const PACKAGE_URL="http://34.230.82.114//api/package/package"
-export const BUNDLE_PACKAGE_URL="http://34.230.82.114//api/package/bundle"
-export const PAYMENT_GATEWAY_CREDENTIALS_API_KEY="http://34.230.82.114//api/conferenceQuiz/quiz/payment-gateway"
-export const PAYMENT_API_KEY="http://34.230.82.114//api/package/payment"
-export const EXAM_API_KEY="http://34.230.82.114//api/package/exam"
-export const DOUBT_URL="http://34.230.82.114//api/package/doubt"
-export const USER_URL="http://34.230.82.114//api/user/user"
+let API_URL="http://34.230.82.114/api/user/user"
+let QUIZ_URL="http://34.230.82.114/api/quiz/quiz"
+let COMMON_URL="http://34.230.82.114/api/common"
+let QUESTION_URL="http://34.230.82.114/api/question"
+export const APIURLADMIN="http://34.230.82.114/api/conferenceQuiz/web/admin-setting"
+export const PACKAGE_URL="http://34.230.82.114/api/package/package"
+export const BUNDLE_PACKAGE_URL="http://34.230.82.114/api/package/bundle"
+export const PAYMENT_GATEWAY_CREDENTIALS_API_KEY="http://34.230.82.114/api/conferenceQuiz/quiz/payment-gateway"
+export const PAYMENT_API_KEY="http://34.230.82.114/api/package/payment"
+export const EXAM_API_KEY="http://34.230.82.114/api/package/exam"
+export const DOUBT_URL="http://34.230.82.114/api/package/doubt"
+export const USER_URL="http://34.230.82.114/api/user/user"
 
 
 
