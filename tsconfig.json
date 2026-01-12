@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "baseUrl": "./src"
+  },
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "src/lib/headhesive.js", "src/components/blocks/navbar/TransactionHistoryTable.jsx", "src/components/blocks/navbar/GenerateInvoicePDF.jsx", "src/components/common/SlideToContinue.js", "src/components/dashboardComponent/common/InvoicePDF.js", "src/components/dashboardComponent/common/paymentGateway/CashFree.jsx"],
+  "exclude": ["node_modules"]
+}

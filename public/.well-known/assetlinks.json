@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.testerika.lms.twa",
+        "sha256_cert_fingerprints": ["02:DE:36:D1:F1:FC:2E:5A:EC:0F:CF:E8:5C:64:36:1C:0C:8F:B0:0D:4E:6D:35:EB:AA:21:87:3C:30:86:DD:A7"]
+      }
+}]

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 55.1 (78136) - https://sketchapp.com -->
+
+    <desc>Created with sketchtool.</desc>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Logged-in_Exam-Calendar" transform="translate(-353.000000, -216.000000)">
+            <g id="Group-2" transform="translate(353.000000, 209.000000)">
+                <g id="Calendar" transform="translate(0.000000, 7.000000)">
+                    <path d="M10.7462687,0 L18.5074627,0 C19.3317683,-1.51422482e-16 20,0.668231717 20,1.49253731 L20,6.71641791 L10.7462687,6.71641791 L10.7462687,0 Z" id="Rectangle" fill="#3FC4FF"></path>
+                    <rect id="Rectangle-Copy" fill="#2E7BFD" x="10.7462687" y="6.71641791" width="9.25373134" height="6.71641791"></rect>
+                    <path d="M1.49253731,0 L13.5820896,0 L13.5820896,20 L1.49253731,20 C0.668231717,20 -1.21096284e-16,19.3317683 0,18.5074627 L0,1.49253731 C-3.22992926e-16,0.668231717 0.668231717,-7.06221233e-17 1.49253731,0 Z" id="Rectangle" fill="#E6E6E6"></path>
+                    <path d="M8.50746269,13.4328358 L20,13.4328358 L20,18.5074627 C20,19.3317683 19.3317683,20 18.5074627,20 L7.01492537,20 L7.01492537,14.9253731 C7.01492537,14.1010675 7.68315709,13.4328358 8.50746269,13.4328358 Z" id="Rectangle-Copy-4" fill="#4355B6"></path>
+                    <path d="M8.50746269,13.4328358 L13.5820896,13.4328358 L7.01492537,20 L7.01492537,14.9253731 C7.01492537,14.1010675 7.68315709,13.4328358 8.50746269,13.4328358 Z" id="Rectangle" fill="#B3B3B3"></path>
+                    <text id="31" font-family="AcuminPro-Semibold, Acumin Pro" font-size="9" font-weight="500" line-spacing="3.28358209" fill="#678390">
+                        <tspan x="2" y="12">31</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
